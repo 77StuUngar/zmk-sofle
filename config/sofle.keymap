@@ -50,7 +50,7 @@
 &mmv MOVE_HOR 100  &kp LCTRL  &kp LALT  &kp LEFT_WIN  &kp SPACE  &mo 1     &kp ENTER        &kp ENTER  &kp SPACE  &mo 2      &kp RIGHT_SHIFT  &kp DELETE
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
+            sensor-bindings = <&scroll_encoder>;
             display-name = "LAYER0";
         };
 
