@@ -51,7 +51,6 @@
             >;
 
             display-name = "LAYER0";
-            sensor-bindings = <&scroll_encoder>;
         };
 
         layer_1 {
@@ -64,7 +63,6 @@
             >;
 
             display-name = "layer1";
-            sensor-bindings = <&scroll_encoder>;
         };
 
         layer_2 {
@@ -75,8 +73,6 @@
 &trans     &sys_reset    &trans          &bootloader   &trans        &trans          &mmv MOVE_RIGHT  &trans   &trans            &sys_reset        &soft_off          &bootloader  &trans
 &trans     &trans        &trans          &trans        &trans        &trans          &mkp LCLK        &trans   &trans            &trans            &trans             &trans
             >;
-
-            sensor-bindings = <&scroll_encoder>;
         };
     };
 };
