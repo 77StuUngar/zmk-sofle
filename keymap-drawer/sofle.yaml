@@ -153,7 +153,7 @@ layers:
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - F11
   - F12
-  - '&msc SCROLL 20 0'
+  - '&msc MOVE_UP'
   - {t: '$$mdi:transfer$$', type: trans}
   - _
   - +
