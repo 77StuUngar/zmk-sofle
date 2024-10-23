@@ -165,9 +165,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - '&msc MOVE_RIGHT'
   - '&msc MOVE_DOWN'
-  - {t: '$$mdi:transfer$$', type: trans}
+  - '&msc MOVE_LEFT'
   - '{'
   - '}'
   - {t: '$$mdi:transfer$$', type: trans}
