@@ -153,7 +153,7 @@ layers:
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - F11
   - F12
-  - '&mwh SCROLL_VERT 20'
+  - '&msc SCROLL_VERT 20'
   - {t: '$$mdi:transfer$$', type: trans}
   - _
   - +
@@ -166,7 +166,7 @@ layers:
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&mwh SCROLL_DOWN'
+  - '&msc SCROLL_VERT -20'
   - {t: '$$mdi:transfer$$', type: trans}
   - '{'
   - '}'
