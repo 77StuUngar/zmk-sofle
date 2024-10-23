@@ -29,8 +29,8 @@
 	left_encoder: encoder_left {
 		compatible = "alps,ec11";
 		label = "LEFT_ENCODER";
-		resolution = <4>;
-                 steps = <5>;
+		resolution = <10>;
+                 steps = <10>;
 		status = "disabled";
 	};
 
